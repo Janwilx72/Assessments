@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Assessment1Test" tests="15" skipped="0" failures="0" errors="0" timestamp="2023-09-07T11:05:38" hostname="Jans-MacBook-Pro.local" time="0.113">
+  <properties/>
+  <testcase name="test_getRow_WithValidPosition()" classname="Assessment1Test" time="0.033"/>
+  <testcase name="test_getColumn_withInvalidPosition()" classname="Assessment1Test" time="0.001"/>
+  <testcase name="test_checkForSnakeAndLadder_findsNone()" classname="Assessment1Test" time="0.003"/>
+  <testcase name="test_getColumn_withInvalidRow()" classname="Assessment1Test" time="0.002"/>
+  <testcase name="test_reprintBoard_With_Position_Less_Than_One()" classname="Assessment1Test" time="0.001"/>
+  <testcase name="test_checkForSnakeAndLadderWithEmptyList_findsNone()" classname="Assessment1Test" time="0.001"/>
+  <testcase name="repetition 1 of 5" classname="Assessment1Test" time="0.005"/>
+  <testcase name="repetition 2 of 5" classname="Assessment1Test" time="0.0"/>
+  <testcase name="repetition 3 of 5" classname="Assessment1Test" time="0.001"/>
+  <testcase name="repetition 4 of 5" classname="Assessment1Test" time="0.0"/>
+  <testcase name="repetition 5 of 5" classname="Assessment1Test" time="0.001"/>
+  <testcase name="test_validBoardReturned()" classname="Assessment1Test" time="0.008"/>
+  <testcase name="test_getRow_WithInvalidPosition()" classname="Assessment1Test" time="0.0"/>
+  <testcase name="test_reprintBoard_With_Invalid_Position_Based_on_Row_and_Column()" classname="Assessment1Test" time="0.002"/>
+  <testcase name="test_checkForSnakeAndLadder_ChangePosition()" classname="Assessment1Test" time="0.0"/>
+  <system-out><![CDATA[0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+0	0	0	0	0	
+X	0	0	0	0	
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
